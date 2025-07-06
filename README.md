@@ -1,4 +1,4 @@
-***Hi, I'm Jayavardhan Atti***
+#                                  Hi, I'm Jayavardhan Atti                                            #
 # 🖤 About Me
 
 I'm a dedicated tech learner on a mission to master **JavaScript** and become a future **Full-Stack Developer**.  
