@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="./custom_banner_dark_resized.png" alt="Jayavardhan Atti Banner" />
-</p>
-
+***Hi, I'm Jayavardhan Atti***
 # 🖤 About Me
 
-I'm **Jayavardhan Atti**, a dedicated tech learner on a mission to master **JavaScript** and become a future **Full-Stack Developer**.  
+I'm a dedicated tech learner on a mission to master **JavaScript** and become a future **Full-Stack Developer**.  
 Currently part of the **100xDevs Cohort 3** and following **Namaste React** to build strong frontend skills and I’m a final year B.Tech student majoring in Computer Science.
 ---
 
