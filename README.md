@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./custom_banner_dark.png" alt="Jayavardhan Atti Banner" />
+  <img src="./custom_banner_dark_resized.png" alt="Jayavardhan Atti Banner" />
 </p>
 
 # 🖤 About Me
